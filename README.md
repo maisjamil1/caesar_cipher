@@ -1,8 +1,8 @@
 # Lab: caesar_cipher
-## Estimate of time needed to complete: h
+## Estimate of time needed to complete:4h
 ## Start time: 12:30 pm
-## Finish time:
-## Actual time needed to complete:
+## Finish time:4h
+## Actual time needed to complete:4h
 ## Link: https://github.com/maisjamil1/caesar_cipher/pull/1
 ## Notes:
 
